@@ -139,7 +139,7 @@ async def place(ctx, pos: int):
                         line += " " + board[x]
 
                 checkWinner(winningConditions, mark)
-                print(count)
+                # print(count)
                 if gameOver:
                     if mark == ":regional_indicator_x:":
                         await ctx.send("Congrats <@" + str(player1.id) + "> for winning! :tada: :tada:")
