@@ -3,7 +3,7 @@
 **Short Description**
 
 This discord bot is created to play tictactoe with your friends on discord.
-Used discord.py for command controls. Used python language to create the bot.
+Used discord.py for command controls. Used python language to create the bot. Hosted on Heroku servers.
 
 
 This is what the bot looks like:
